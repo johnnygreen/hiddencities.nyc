@@ -1,0 +1,4 @@
+#!/bin/bash
+
+ssh root@ingridcronburg.com "cd /var/www/hiddencities.nyc && git checkout . && git pull"
+

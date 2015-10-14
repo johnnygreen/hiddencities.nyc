@@ -64,7 +64,7 @@
             <li><a href="http://twitter.com/hiddencitiesnyc"><i class="fa fa-twitter fa-2x"></i></a></li>
             <li><a href="http://facebook.com/hiddencitiesnyc"><i class="fa fa-facebook fa-2x"></i></a></li>
             <li><a href="http://youtube.com/hiddencitiesnyc"><i class="fa fa-youtube fa-2x"></i></a></li>
-            <li><a href="mailto:hiddencitiesnyc@gmail.com?subject=Hello"><i class="fa fa-envelope fa-2x"></i></a></li>
+            <li><a href="mailto:hiddencities@gmail.com?subject=Hello"><i class="fa fa-envelope fa-2x"></i></a></li>
           </ul>
         </div>
       </div>
