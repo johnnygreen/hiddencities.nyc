@@ -42,7 +42,7 @@
             Playing those barroom dance boozy bluesy rock tunes since forever, the band has opened for national acts on legendary stages including Webster Hall and The Stone Pony, all the while writing and recording.
           </p>
           <p>
-            Their first EP <i>All New Friends</i> is available <a href="">HERE</a>
+            Their first EP <i>All New Friends</i> will be released in Fall 2015. <!-- available soon.<!--<a href="">HERE</a>-->
           </p>
         </div>
         <div class="col-md-5 col-sm-6">
