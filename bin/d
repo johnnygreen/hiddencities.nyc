@@ -1,4 +1,4 @@
 #!/bin/bash
 
-ssh root@ingridcronburg.com "cd /var/www/hiddencities.nyc && git checkout . && git pull"
+ssh root@hiddencities.nyc "cd /var/www/hiddencities.nyc && git checkout . && git pull"
 
