@@ -34,16 +34,18 @@
     <div class="container container-main">
       <div class="row">
         <div class="col-md-offset-1 col-md-5 col-sm-6">
-          <p>
-            <strong>Hidden Cities is a good excuse.</strong><br>
-            A burst of creative, cackling energy harnessed for a moment from the streets of NYC.
-          </p>
-          <p>
-            Playing those barroom dance boozy bluesy rock tunes since forever, the band has opened for national acts on legendary stages including Webster Hall and The Stone Pony, all the while writing and recording.
-          </p>
-          <p>
-            Their first EP <i>All New Friends</i> will be released in Fall 2015. <!-- available soon.<!--<a href="">HERE</a>-->
-          </p>
+          <div class="biography">
+            <p>
+              <strong>Hidden Cities is a good excuse.</strong><br>
+              A burst of creative, cackling energy harnessed for a moment from the streets of NYC.
+            </p>
+            <p>
+              Playing those barroom dance boozy bluesy rock tunes since forever, the band has performed with national acts on legendary stages including Webster Hall and The Stone Pony.
+            </p>
+            <p>
+              Get their first EP entitled <i>All New Friends</i> November 3rd.
+            </p>
+          </div>
         </div>
         <div class="col-md-5 col-sm-6">
           <div class="tour-dates">

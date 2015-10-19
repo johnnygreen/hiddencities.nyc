@@ -8021,6 +8021,12 @@ img {
   @media (max-width: 767px) {
     .page-home .container-main {
       margin-top: 0; } }
+  .page-home .container-main .biography {
+    font-weight: 300;
+    font-style: normal;
+    letter-spacing: 1px; }
+    .page-home .container-main .biography strong {
+      font-weight: 600; }
   .page-home .container-main .tour-dates {
     padding: 0 0 30px 0; }
     .page-home .container-main .tour-dates .bit-header {
