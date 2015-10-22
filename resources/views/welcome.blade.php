@@ -53,9 +53,9 @@
             <a href="http://www.bandsintown.com/Hidden%20Cities" class="bit-widget-initializer" data-artist="Hidden Cities">Hidden Cities Tour Dates</a>
           </div>
           <div class="tracks">
-            <iframe style="border: 0; width: 100%; height: 42px;" src="http://bandcamp.com/EmbeddedPlayer/track=2606667492/size=small/bgcol=ffffff/linkcol=333333/transparent=true/" seamless><a href="http://hiddencities.bandcamp.com/track/gas-on-the-fire">Gas on the Fire by Hidden Cities</a></iframe>
-            <iframe style="border: 0; width: 100%; height: 42px;" src="http://bandcamp.com/EmbeddedPlayer/track=2812767497/size=small/bgcol=ffffff/linkcol=333333/transparent=true/" seamless><a href="http://hiddencities.bandcamp.com/track/plain-jane-2">Plain Jane by Hidden Cities</a></iframe>
-            <iframe style="border: 0; width: 100%; height: 42px;" src="http://bandcamp.com/EmbeddedPlayer/track=2609923888/size=small/bgcol=ffffff/linkcol=333333/transparent=true/" seamless><a href="http://hiddencities.bandcamp.com/track/away-3">Away by Hidden Cities</a></iframe>
+            <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=1450421331/size=small/bgcol=ffffff/linkcol=333333/transparent=true/" seamless><a href="http://hiddencities.bandcamp.com/track/bottles-on-the-nightstand">Bottles on the Nightstand</a></iframe>
+            <iframe style="border: 0; width: 100%; height: 42px;" src="http://bandcamp.com/EmbeddedPlayer/track=2812767497/size=small/bgcol=ffffff/linkcol=333333/transparent=true/" seamless><a href="http://hiddencities.bandcamp.com/track/plain-jane-2">Plain Jane</a></iframe>
+            <iframe style="border: 0; width: 100%; height: 42px;" src="http://bandcamp.com/EmbeddedPlayer/track=2606667492/size=small/bgcol=ffffff/linkcol=333333/transparent=true/" seamless><a href="http://hiddencities.bandcamp.com/track/gas-on-the-fire">Gas on the Fire</a></iframe>
           </div>
         </div>
       </div>
