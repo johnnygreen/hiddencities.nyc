@@ -48,11 +48,11 @@
             </p>
           </div>
           <ul class="social-icons">
-            <li><a href="http://instagram.com/hiddencitiesnyc"><i class="fa fa-instagram fa-2x"></i></a></li>
-            <li><a href="http://twitter.com/hiddencitiesnyc"><i class="fa fa-twitter fa-2x"></i></a></li>
-            <li><a href="http://facebook.com/hiddencitiesnyc"><i class="fa fa-facebook fa-2x"></i></a></li>
-            <li><a href="https://www.youtube.com/watch?v=J78UrOoTAGo&feature=youtu.be"><i class="fa fa-youtube fa-2x"></i></a></li>
-            <li><a href="mailto:hiddencities@gmail.com?subject=Hello"><i class="fa fa-envelope fa-2x"></i></a></li>
+            <li><a target="_blank" href="http://instagram.com/hiddencitiesnyc"><i class="fa fa-instagram fa-2x"></i></a></li>
+            <li><a target="_blank" href="http://twitter.com/hiddencitiesnyc"><i class="fa fa-twitter fa-2x"></i></a></li>
+            <li><a target="_blank" href="http://facebook.com/hiddencitiesnyc"><i class="fa fa-facebook fa-2x"></i></a></li>
+            <li><a target="_blank" href="https://www.youtube.com/watch?v=J78UrOoTAGo&feature=youtu.be"><i class="fa fa-youtube fa-2x"></i></a></li>
+            <li><a target="_blank" href="mailto:hiddencities@gmail.com?subject=Hello"><i class="fa fa-envelope fa-2x"></i></a></li>
           </ul>
         </div>
         <div class="col-md-5 col-sm-6">
