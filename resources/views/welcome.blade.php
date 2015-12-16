@@ -44,7 +44,7 @@
               Playing boozy blues barroom dance tunes, the band has performed with national acts on legendary stages including Webster Hall and The Stone Pony.
             </p>
             <p>
-              Get their first EP entitled <i>All New Friends</i> November 6th.
+              Download the EP <a href="http://smarturl.it/AllNewFriends"><img class="img-link" src="/img/album.png"></a>
             </p>
           </div>
           <ul class="social-icons">
