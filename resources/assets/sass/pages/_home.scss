@@ -1,9 +1,24 @@
 .page-home {
 
   .container-header {
+    .banner-container {
+      position: relative;
+      display: inline-block;
+    }
+
+    .banner-container:before {
+      content: "";
+      top: 0;
+      left: 0;
+      position: absolute;
+      height: 100%;
+      width: 100%;
+      background: radial-gradient(ellipse 60% 60%, transparent, black);
+    }
+
     .logo {
       position: absolute;
-      top: -80px;
+      top: -120px;
 
       @media (max-width: $screen-xs-max) {
         position: relative;
@@ -12,15 +27,21 @@
     }
 
     .image-album {
-      padding: 0 20px;
+      width: 120px;
+      margin: -10px auto 0 auto;
+
+      @media (max-width: $screen-xs-max) {
+        width: 40%;
+        margin: -5% auto 0 auto;
+      }
     }
   }
 
   .container-main {
-    margin-top: 110px;
+    margin-top: 60px;
 
-    @media (max-width: $screen-xs-max) {
-      margin-top: 0;
+    @media (max-width: $screen-md-max) {
+      margin-top: 30px;
     }
 
     .biography {
