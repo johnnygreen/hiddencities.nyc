@@ -3,12 +3,13 @@ body {
   color: white;
 }
 
-.link {
+a.link {
   color: white;
   border-bottom: 1px solid white;
-  padding: 1px
+  padding: 1px;
+  text-decoration: none;
 
   &:hover {
-    color: white;
+    color: white !important;
   }
 }

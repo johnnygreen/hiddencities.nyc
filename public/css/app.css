@@ -10933,14 +10933,15 @@ body {
   color: white;
 }
 
-.link {
+a.link {
   color: white;
   border-bottom: 1px solid white;
-  padding: 1px .link;
+  padding: 1px;
+  text-decoration: none;
 }
 
-.link :hover {
-  color: white;
+a.link:hover {
+  color: white !important;
 }
 
 img {
