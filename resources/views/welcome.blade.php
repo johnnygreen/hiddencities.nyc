@@ -46,10 +46,13 @@
               Playing boozy blues barroom dance tunes, the band has performed with national acts on legendary stages including Webster Hall and The Stone Pony.
             </p>
             <p>
-              Get their first record <a href="http://smarturl.it/AllNewFriends"><img class="img-link" src="/img/allnewfriends.png" alt="All New Friends by Hidden Cities" title="All New Friends by Hidden Cities"></a>
+              Get their new record <a href="http://smarturl.it/TheStrange"><img class="img-link the-strange" src="/img/thestrange.png" alt="The Strange by Hidden Cities" title="The Strange by Hidden Cities"></a>
             </p>
-            <p>
+            {{-- <p>
               Get their new single Away <a class="link" href="http://smarturl.it/hc-away">here</a>.
+            </p> --}}
+            <p>
+              Get their first record <a href="http://smarturl.it/AllNewFriends"><img class="img-link" src="/img/allnewfriends.png" alt="All New Friends by Hidden Cities" title="All New Friends by Hidden Cities"></a>
             </p>
           </div>
           <ul class="social-icons">
