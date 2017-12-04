@@ -65,8 +65,10 @@
         </div>
         <div class="col-md-5 col-sm-6">
           <div class="tour-dates">
-            <script type='text/javascript' src='http://widget.bandsintown.com/javascripts/bit_widget.js'></script>
-            <a href="http://www.bandsintown.com/Hidden%20Cities" class="bit-widget-initializer" data-artist="Hidden Cities">Hidden Cities Tour Dates</a>
+            <!-- <script type='text/javascript' src='http://widget.bandsintown.com/javascripts/bit_widget.js'></script>
+            <a href="http://www.bandsintown.com/Hidden%20Cities" class="bit-widget-initializer" data-artist="Hidden Cities">Hidden Cities Tour Dates</a> -->
+            <script charset="utf-8" src="https://widget.bandsintown.com/main.min.js"></script>
+            <a class="bit-widget-initializer" data-artist-name="Hidden Cities" data-display-local-dates="false" data-display-past-dates="true" data-auto-style="false" data-text-color="#FFFFFF" data-link-color="#000000" data-popup-background-color="rgba(0,0,0,0)" data-background-color="rgba(0,0,0,0)" data-display-limit="5" data-link-text-color="#FFFFFF"></a>
           </div>
           <div class="tracks">
             <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=826315502/size=small/bgcol=ffffff/linkcol=333333/transparent=true/" seamless><a href="http://hiddencities.bandcamp.com/track/away-5">Away</a></iframe>
